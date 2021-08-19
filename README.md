@@ -24,6 +24,7 @@ The project is been implemented yet, but the main features are already working:
 
 ## 💻 Requirements
 
+
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
@@ -36,7 +37,7 @@ Para instalar o KeyDropBot, siga estas etapas:
 
 Windows:
 ```
-Em breve ...
+pip install -r requirements.txt
 ```
 
 ## ☕ Usando KeyDropBot
