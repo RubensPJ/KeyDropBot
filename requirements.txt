@@ -1,0 +1,12 @@
+python -m venv keydrop_bot
+n -m venv keydrop_bot
+source keydrop_bot/Script/activate
+pip install PIL
+pip install functools
+pip install pytesseract
+pip install pyautogui
+source keydrop_bot/Script/activate
+pip install PIL
+pip install functools
+pip install pytesseract
+pip install pyautogui
